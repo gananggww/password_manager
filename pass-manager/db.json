@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "username": "ganangwaw",
+      "password": "qweRTY123$%^s",
+      "url": "http://facebook.com",
+      "createdAt": "10/20/2017",
+      "updatedAt": "10/20/2017",
+      "id": 1
+    },
+    {
+      "username": "adasd",
+      "url": "asdas",
+      "password": "asdasd1231ADA!@#!@",
+      "createdAt": "10/20/2017",
+      "updatedAt": null,
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
